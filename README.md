@@ -1,2 +1,2 @@
 # os
-A new project to create an operating system. Timeline: 2 years
+A new project to create a toy operating system. Timeline: 2 years
